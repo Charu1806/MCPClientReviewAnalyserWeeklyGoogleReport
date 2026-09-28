@@ -1,0 +1,13 @@
+{
+  "reviews": [
+    {
+      "platform": "google play",
+      "score": 3,
+      "date": "2026-07-06T05:01:36-07:00",
+      "body": "Login   with OTP failed",
+      "title": "OTP",
+      "email": "hidden@example.com",
+      "package": "com.nextbillion.groww"
+    }
+  ]
+}

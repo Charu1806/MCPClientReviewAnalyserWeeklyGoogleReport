@@ -1,0 +1,20 @@
+{
+  "feed": {
+    "entry": [
+      {
+        "author": {"name": {"label": "Should Not Appear"}},
+        "im:rating": {"label": "5"},
+        "title": {"label": "Onboarding"},
+        "content": {"label": "KYC finished quickly"},
+        "updated": {"label": "2026-09-01T10:00:00-07:00"}
+      },
+      {
+        "author": {"name": {"label": "Also Hidden"}},
+        "im:rating": {"label": "2"},
+        "title": {"label": "Old"},
+        "content": {"label": "This review is old"},
+        "updated": {"label": "2026-01-15T10:00:00-07:00"}
+      }
+    ]
+  }
+}

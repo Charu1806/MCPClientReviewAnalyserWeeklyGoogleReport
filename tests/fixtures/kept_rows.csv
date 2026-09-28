@@ -1,0 +1,5 @@
+store,rating,date,text,title,app_id
+app_store,5,2026-09-01,KYC took a day,Onboarding,1404871703
+app_store,5,2026-09-01,KYC   took a day,Onboarding,1404871703
+play,2,2026-08-02,SIP failed,Payments,com.other.app
+play,4,2026-08-20,Statement downloaded,Statements,com.nextbillion.groww

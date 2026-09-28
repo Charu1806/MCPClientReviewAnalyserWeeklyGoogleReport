@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.env
+.pytest_cache/
+data/exports/*
+!data/exports/.gitkeep
+data/pulse/*
+!data/pulse/.gitkeep
+data/state.json
+data/runs/

@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "data": {
+        "shelfMapping": {
+          "allProductReviews": {
+            "items": [
+              {
+                "review": {
+                  "rating": 4,
+                  "title": "Payments",
+                  "contents": "UPI payment failed",
+                  "date": "2026-08-16T03:59:26.000Z",
+                  "reviewerName": "Hidden Person",
+                  "dateAuthorText": "Hidden Person, 16 August"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
